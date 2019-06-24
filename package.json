@@ -1,0 +1,28 @@
+{
+  "name": "learning-note",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "doc": "vuepress dev docs",
+    "build": "vuepress build docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshua1988/learning-note.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshua1988/learning-note/issues"
+  },
+  "homepage": "https://github.com/joshua1988/learning-note#readme",
+  "devDependencies": {
+    "vuepress": "^1.0.2"
+  }
+}
